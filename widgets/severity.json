@@ -1,0 +1,1 @@
+[{"uid":"bb7800fbd5ee0734","name":"Тест неуспешной авторизации","time":{"start":1756034508249,"stop":1756034508839,"duration":590},"status":"passed","severity":"normal"},{"uid":"7e00a729d1c52552","name":"Тест успешной авторизации","time":{"start":1756034506500,"stop":1756034507936,"duration":1436},"status":"passed","severity":"normal"}]
